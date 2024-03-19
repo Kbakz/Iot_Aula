@@ -1,16 +1,12 @@
 {
-    "name": "micro",
+    "name": "Bússula",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1"
+        "core": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md",
         "main.py"
     ],
     "testFiles": [
